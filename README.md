@@ -5,7 +5,9 @@
 
 A comprehensive system health monitoring and maintenance tool for Linux. This script provides real-time information about your system's health, including CPU/GPU temperatures, disk usage, memory usage, error logs, and more. It can also automatically fix common issues.
 
-![System Health Monitor](https://github.com/acn3to/system-health-monitor/raw/main/screenshots/dashboard.png)
+<div align="center">
+  <img src="https://github.com/acn3to/system-health-monitor/raw/main/screenshots/dashboard.png" alt="System Health Monitor Dashboard" style="max-width: 100%;">
+</div>
 
 ## 📋 Table of Contents
 
