@@ -1,0 +1,40 @@
+# Backup files
+*~
+*.bak
+*.swp
+.~lock.*
+*.tmp
+*.backup
+
+# Log files
+*.log
+logs/
+
+# User-specific config
+.env
+config.local.sh
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary directories
+tmp/
+temp/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+*.code-workspace 
